@@ -13,4 +13,5 @@ func main() {
 	fmt.Println(contaDaSilvia)
 	fmt.Println(status)
 	fmt.Println(contaDoGustavo)
+
 }
